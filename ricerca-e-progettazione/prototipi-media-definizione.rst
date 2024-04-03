@@ -1,0 +1,7 @@
+Prototipi a media definizione
+==============================
+Dopo aver definito la struttura e i contenuti delle principali pagine del modello, sono stati realizzati i prototipi a media definizione (mid-fi). I prototipi mid-fi sono una simulazione realistica di come sarà l’interfaccia del modello una volta implementato e mostrano concretamente i flussi di operazioni che possono essere svolte da un utente per portare a termine i compiti desiderati. I contenuti con cui è popolato sono verosimili e questa scelta è funzionale al fine di permettere all’utente che lo naviga di immedesimarsi nel contesto d’uso. La media definizione degli elementi di interfaccia consente di concentrarsi sulle operazioni e sull’idoneità delle strutture ad ospitare i contenuti previsti, invece che sull’aspetto estetico del sito.  
+
+Sono stati prototipati i principali scenari d’uso emersi durante la ricerca ovvero le schermate di tutte le pagine e le interazioni necessarie a rappresentare un flusso ipotetico che un utente svolge per raggiungere un determinato obiettivo.  
+
+I prototipi realizzati, uno in versione desktop e uno in versione mobile, sono stati fondamentali per validare le scelte progettuali attraverso gli user test con gli utenti. Successivamente ai test di usabilità, i prototipi mid-fi sono poi stati evoluti in prototipi ad alta definizione da includere tra le risorse per enti e fornitori come esempi di ipotetiche applicazioni del modello. 
