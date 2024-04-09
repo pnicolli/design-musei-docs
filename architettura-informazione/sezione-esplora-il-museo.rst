@@ -45,7 +45,7 @@ La pagina è composta da:
 - Una sezione **Vuoi supportare il museo**, che rimanda ad una pagina con la spiegazione dei modi con cui si può supportare il museo (ad esempio tramite donazioni o membership);
 - La **funzionalità di valutazione della chiarezza informativa delle pagine**, che permette agli utenti di lasciare feedback utili all’ente per migliorare i contenuti del sito.
 
-Pagine lista di secondo livello Collezioni, Oggetti e Personaggi
+Collezioni, Oggetti e Personaggi
 --------------------------------------------------------------------
 
 Al di sotto della pagina lista di primo livello Esplora il museo, si diramano le pagine lista di secondo livello: Collezioni, Oggetti e Artisti. Una pagina lista raccoglie i collegamenti a tutte le pagine foglia afferenti a quella specifica categoria di contenuto. 
@@ -58,8 +58,8 @@ Le pagine sono composte da:
 - La **lista dei contenuti**, organizzati sotto forma di card che presentano: per le collezioni, il nome, una breve descrizione e un’immagine rappresentativa. Per gli oggetti, il nome dell'oggetto (nel caso di un'opera d'arte, il titolo), nome del personaggio di riferimento (dell'artista, scienziato, studioso, etc.), data di creazione e immagine rappresentativa. Per i personaggi, il nome, la data di nascita ed eventuale data di morte, l'indicazione della tipologia di personaggio. Sono esposte in pagina fino a un massimo di 12 card ed è presente un elemento paginazione per permettere di visualizzare ulteriori contenuti; 
 - La **funzionalità di valutazione della chiarezza informativa della pagina**, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
 
-Pagina Collezione e pagine foglia Oggetto e Personaggio
------------------------------------------------------------
+Al di sotto delle relative pagine lista, troveremo le pagine delle specifiche collezioni, oggetti e personaggi.
+
 Una **pagina Collezione** ha lo scopo di presentare una specifica collezione del museo e riporterà:
   
 - Una Hero con il titolo di pagina, che coinciderà con il titolo della collezione, una breve descrizione e un'immagine di background;
@@ -70,5 +70,10 @@ La **pagina foglia “Oggetto”** si basa sulla tipologia di contenuto “Ogget
 
 La **pagina foglia “Personaggio”** si basa sulla tipologia di contenuto “Personaggio” descritta nel Documento di architettura dell’informazione (XXX KB) in cui vengono indicati gli attributi informativi necessari e l’ordine di presentazione degli stessi. La tipologia “Personaggio” è stata progettata per mettere in risalto le informazioni più ricercate dagli utenti dei musei riguardo a un personaggio i cui oggetti sono esposti all’interno del museo, come il nome e cognome, il periodo di vita, la biografia, gli oggetti ad esso correlati, la correlazione con percorsi e collezioni del museo e una galleria di immagini o video rappresentativi.
 
-Come ogni pagina del sito, queste pagine presentano la funzionalità di valutazione della chiarezza informativa prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
+Come ogni pagina del sito, queste pagine presentano la funzionalità di valutazione della chiarezza informativa prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
+
+Storia del museo
+------------------
+
+
 
