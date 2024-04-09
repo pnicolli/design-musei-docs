@@ -44,7 +44,7 @@ La pagina è composta da:
 - La **funzionalità di valutazione della chiarezza informativa delle pagine**, che permette agli utenti di lasciare feedback utili all’ente per migliorare i contenuti del sito.
 
 
-Pagina foglia Orari, biglietti e visite guidate
+Orari, biglietti e visite guidate
 --------------------------------------------------
 
 La pagina foglia “Orari, biglietti e visite guidate” ha lo scopo di esporre all’utente tutte le informazioni per la prenotazione della visita al museo in maniera approfondita e dettagliata. La struttura è quella di un template di pagina generico in cui è riportato contenuto testuale ma anche tabellare come le tabelle del costo dei biglietti per le varie tipologie di visitatore (individuale, gruppi o scuole). 
@@ -57,7 +57,7 @@ La pagina è composta da:
 - La **funzionalità di valutazione della chiarezza informativa delle pagine**, che permette agli utenti di lasciare feedback utili all’ente per migliorare i contenuti del sito.
 
 
-Pagina foglia Dove siamo 
+Dove siamo 
 --------------------------------
 
 La pagina foglia di secondo livello “Dove siamo” ha lo scopo di presentare agli utenti la posizione, l’indirizzo e le informazioni su come raggiungere il museo con i mezzi pubblici e privati. Nel caso in cui il museo sia composto da più luoghi, comparirà l’elenco di tutti i luoghi con annessi gli indirizzi e le informazioni su come raggiungerli. 
@@ -70,7 +70,7 @@ La pagina è composta da:
 - La **funzionalità di valutazione della chiarezza informativa delle pagine**, che permette agli utenti di lasciare feedback utili all’ente per migliorare i contenuti del sito.
 
 
-Pagina lista di secondo livello Percorsi di visita 
+Percorsi di visita 
 --------------------------------------------------------
 
 La pagina lista di secondo livello “Percorsi di visita” ha lo scopo di presentare agli utenti una panoramica dei percorsi di visita che possono svolgere nel museo. 
@@ -83,16 +83,13 @@ La pagina è composta da:
 - La **funzionalità di valutazione della chiarezza informativa della pagina**, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
 
 
-Pagina foglia Percorso di visita
-------------------------------------------
-
 La pagina foglia “Percorso di visita” si basa sulla tipologia di contenuto “Percorso” descritta nel Documento di architettura dell’informazione (XXX KB), in cui vengono indicati gli attributi informativi necessari e l’ordine di presentazione degli stessi. La tipologia “Percorso” è stata progettata per mettere in risalto le informazioni più ricercate dagli utenti dei musei riguardo ad un percorso, come la durata complessiva, le tappe da cui è composto il percorso e una galleria di foto e video rappresentative. 
 
-Come ogni pagina del sito, le pagine foglia servizio presentano la funzionalità di valutazione della chiarezza informativa prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
+Come ogni pagina del sito, le pagine foglia Percorso di visita presentano la funzionalità di valutazione della chiarezza informativa prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
 
 
-Pagina lista di secondo livello Servizi 
-------------------------------------------
+Servizi 
+-------------
 
 La pagina lista di secondo livello “Servizi” ha lo scopo di presentare agli utenti una panoramica dei servizi offerti dal museo, sia quelli riferiti nello specifico alla visita come anche altri più legati ad un utilizzo alternativo del museo (ad esempio l’affitto di sale del museo per eventi privati). 
 
@@ -102,10 +99,6 @@ La pagina è composta da:
 - Nel caso in cui un museo sia composto da più luoghi, un **filtro Luogo** che permette di selezionare un'opzione da un menu a tendina per visualizzare doltanto i servizi di uno specifico luogo;  
 - L’**elenco di tutti i Servizi**, sotto forma di card. Ogni card presenta il nome del servizio, una breve descrizione e, nel caso in cui il servizio ha una pagina foglia associata, il link con la call to action “Scopri il servizio”;
 - La **funzionalità di valutazione della chiarezza informativa della pagina**, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
-
-
-Pagina foglia Servizio
--------------------------
 
 La pagina foglia “Servizio” si basa sulla tipologia di contenuto “Servizio” descritta nel Documento di architettura dell’informazione (XXX KB) in cui vengono indicati gli attributi informativi necessari e l’ordine di presentazione degli stessi per creare una pagina foglia di un servizio di un museo. La tipologia “Servizio” è stata progettata per mettere in risalto le informazioni più ricercate dagli utenti dei musei riguardo ad un servizio, come la descrizione, gli orari, i costi e una galleria di foto e video rappresentative. 
 
