@@ -75,5 +75,16 @@ Come ogni pagina del sito, queste pagine presentano la funzionalità di valutazi
 Storia del museo
 ------------------
 
+La pagina foglia “Storia del museo” ha lo scopo di raccontare all’utente dettagli sul museo, dalla sua fondazione fino al giorno d’oggi. Può essere presente una galleria di immagini e video particolarmente significative. 
+
+Tour virtuali
+----------------
+
+Notizie
+--------
+
+Luoghi
+--------
+
 
 
