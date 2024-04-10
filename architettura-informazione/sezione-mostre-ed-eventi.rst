@@ -4,7 +4,7 @@ La sezione presenta agli utenti l’offerta del museo in termini di mostre tempo
 
 Al primo livello, la sezione presenta una pagina di lista di primo livello chiamata “Mostre ed eventi”. Al secondo livello sono invece presenti le relative pagine foglia. 
 
-Per approfondire la struttura della sezione Mostre ed eventi, vai al Grafico dell’alberatura (PDF XXMB).
+Per approfondire la struttura della sezione Mostre ed eventi, vai al `Grafico dell’alberatura (PDF 3.6MB) <https://designers.italia.it/files/resources/modelli/musei-civici/Alberatura-ModelloMusei-DesignersItalia.pdf>`_.
 
 Per tutte le pagine di questa sezione del sito, è disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al file del modello Musei sulla Community Figma, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Mostre ed eventi».
 
@@ -13,7 +13,6 @@ Pagina lista di primo livello Mostre ed eventi
 --------------------------------------------------
 
 La pagina di lista di primo livello “Mostre ed eventi” è la lista di tutte le mostre e gli eventi in corso e in programma.   
-
 La pagina è composta da: 
 
 - Una **Hero** con titolo di pagina "Mostre ed eventi"; 
