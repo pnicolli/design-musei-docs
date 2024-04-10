@@ -15,7 +15,9 @@ Al secondo livello, la sezione si dirama in:
 - Notizie (pagina lista) 
 - Luogo (pagina foglia)
 
-*La tassonomia di riferimento che regola le nomenclature per le pagine lista “Oggetti” e “Personaggi” è la Tassonomia Tipi di oggetto e personaggio. A seconda della tipologia di museo, queste pagine adotteranno le nomenclature più adatte al tipo di patrimonio in possesso. Ad esempio, per un museo di arte contemporanea sarà più opportuno chiamarle Opere e Artisti, mentre per un museo di fotografia sarà più opportuno chiamarle Fotografie e Fotografi. È comunque possibile aggiungere nuove nomenclature nel caso ci siano Oggetti e Personaggi che non rientrano in quelle individuate nella tassonomia.
+..attention ::
+  
+ *La tassonomia di riferimento che regola le nomenclature per le pagine lista “Oggetti” e “Personaggi” è la Tassonomia Tipi di oggetto e personaggio. A seconda della tipologia di museo, queste pagine adotteranno le nomenclature più adatte al tipo di patrimonio in possesso. Ad esempio, per un museo di arte contemporanea sarà più opportuno chiamarle Opere e Artisti, mentre per un museo di fotografia sarà più opportuno chiamarle Fotografie e Fotografi. È comunque possibile aggiungere nuove nomenclature nel caso ci siano Oggetti e Personaggi che non rientrano in quelle individuate nella tassonomia.
 
 Direttamente sotto la pagina lista di secondo livello Collezioni, sono presenti le pagine foglia delle singole collezioni.  
 
@@ -27,10 +29,12 @@ Direttamente sotto la pagina lista di secondo livello Notizie, sono presenti le 
 
 Per approfondire la struttura della sezione Esplora il museo, vai al Grafico dell’alberatura (PDF XXMB).
 
+Per tutte le pagine di questa sezione del sito, a meno che non specificato diversamente, è disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al file del modello Musei sulla Community Figma, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Esplora il museo».
+
 Pagina lista di primo livello Esplora il museo 
 ---------------------------------------------------
 
-La pagina di lista di primo livello “Esplora il museo” risponde al bisogno degli utenti di scoprire cosa racchiude il museo e, nel caso fosse composto da più luoghi, vedere più informazioni su di essi.   
+La pagina di lista di primo livello “Esplora il museo” ha lo scopo di offrire agli utenti una panoramica di tutti i contenuti di questa sezione del sito e i collegamenti alle varie sottosezioni per consentirne la navigazione.   
 
 
 La pagina è composta da: 
@@ -48,11 +52,11 @@ La pagina è composta da:
 Collezioni, Oggetti e Personaggi
 --------------------------------------------------------------------
 
-Al di sotto della pagina lista di primo livello Esplora il museo, si diramano le pagine lista di secondo livello: Collezioni, Oggetti e Artisti. Una pagina lista raccoglie i collegamenti a tutte le pagine foglia afferenti a quella specifica categoria di contenuto. 
+Al di sotto della pagina lista di primo livello Esplora il museo, si diramano le pagine lista di secondo livello **Collezioni**, **Oggetti** e **Personaggi**, che hanno lo scopo di presentare agli utenti il patrimonio del museo e le informazioni sui personaggi più rilevanti (come ad esempio, gli artisti in mostra).
 
 Le pagine sono composte da: 
 
-- Una sezione **Hero** con titolo della pagina; 
+- Una sezione **Hero** con titolo della pagina. Per i titoli delle pagine “Oggetti” e “Personaggi” si può fare riferimento alla Tassonomia Tipi di oggetto e personaggio per individuare le nomenclature più adatte al tipo di patrimonio in possesso; 
 - La **lista dei filtri** che ha due layout diversi a seconda delle pagine: nel caso della pagina lista Collezione può esserci, nel caso in cui il museo sia composto da più luoghi, un solo filtro Luogo e il componente utilizzato è una select con all’interno l’elenco dei luoghi. Per le pagine lista Oggetti e Personaggi, è presente una colonna sticky sulla sinistra che riporta filtri come la Tipologia (di oggetto o di personaggio), il Periodo storico-artistico, le Collezioni, i Luoghi di esposizione, se il museo ne presenta vari;
 - Per le pagine lista Oggetti e Personaggi, è presente una **barra di ricerca** dove inserire parole chiave per filtrare la lista dei contenuti e l’ordinamento sulla destra che permette all’utente di ordinare i risultati restituiti dalla ricerca.
 - La **lista dei contenuti**, organizzati sotto forma di card che presentano: per le collezioni, il nome, una breve descrizione e un’immagine rappresentativa. Per gli oggetti, il nome dell'oggetto (nel caso di un'opera d'arte, il titolo), nome del personaggio di riferimento (dell'artista, scienziato, studioso, etc.), data di creazione e immagine rappresentativa. Per i personaggi, il nome, la data di nascita ed eventuale data di morte, l'indicazione della tipologia di personaggio. Sono esposte in pagina fino a un massimo di 12 card ed è presente un elemento paginazione per permettere di visualizzare ulteriori contenuti; 
@@ -64,7 +68,7 @@ Una **pagina Collezione** ha lo scopo di presentare una specifica collezione del
   
 - Una Hero con il titolo di pagina, che coinciderà con il titolo della collezione, una breve descrizione e un'immagine di background;
 - Una sezione di spiegazione testuale, dove gli enti possono aggiungere più informazioni sulla collezione, il contesto storico e le tematiche principali;
-- La lista degli oggetti della collezione, presentate sotto forma di card.
+- La lista degli oggetti della collezione, presentate sotto forma di card. Al click su una card, l'utente atterrerà sulla pagina foglia di uno specifico oggetto della collezione, posizionata in Esplora il museo > Oggetti.
 
 La **pagina foglia “Oggetto”** si basa sulla tipologia di contenuto “Oggetto” descritta nel Documento di architettura dell’informazione (XXX KB) in cui vengono indicati gli attributi informativi necessari e l’ordine di presentazione degli stessi. La tipologia “Oggetto” è stata progettata per mettere in risalto le informazioni più ricercate dagli utenti dei musei riguardo ad un oggetto esposto, come il titolo, l’immagine, una descrizione testuale, una scheda tecnica, la correlazione con percorsi, collezioni o altri oggetti del museo e una galleria di immagini o video rappresentativi dell’oggetto. 
 
