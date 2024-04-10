@@ -16,3 +16,5 @@ L’homepage del modello è composta da:
 - una sezione per i **feed social** che  presenta fino a un massimo di 3 contenuti pubblicati in ordine cronologico inverso, dal più recente al meno recente, e i link ai relativi profili social; 
 - una sezione per **pubblicizzare come supportare il museo**, che rimanda alla pagina "Supporta il museo"; 
 - La **funzionalità di valutazione della chiarezza informativa delle pagine**, che permette agli utenti di lasciare feedback utili all’ente per migliorare i contenuti del sito. 
+
+E! disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al file del modello Musei sulla Community Figma, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Homepage».
