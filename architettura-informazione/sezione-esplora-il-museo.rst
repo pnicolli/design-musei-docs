@@ -26,7 +26,7 @@ Al di sotto della pagina lista di secondo livello Personaggi, sono presenti le p
 
 Direttamente sotto la pagina lista di secondo livello Notizie, sono presenti le pagine foglia delle singole notizie, create seguendo le indicazioni della tipologia di contenuto “Notizia”. 
 
-Per approfondire la struttura della sezione Esplora il museo, vai al Grafico dell’alberatura (PDF XXMB).
+Per approfondire la struttura della sezione Esplora il museo, vai al `Grafico dell’alberatura (PDF 3.6MB) <https://designers.italia.it/files/resources/modelli/musei-civici/Alberatura-ModelloMusei-DesignersItalia.pdf>`_.
 
 Per tutte le pagine di questa sezione del sito, a meno che non specificato diversamente, è disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al file del modello Musei sulla Community Figma, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Esplora il museo».
 
