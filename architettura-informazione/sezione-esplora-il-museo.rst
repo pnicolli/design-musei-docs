@@ -101,6 +101,22 @@ La pagina è composta da:
 
 Notizie
 --------
+La pagina "Notizie" è una pagina lista che presenta agli utenti tutte le notizie pubblicate dal museo in ordine cronologico inverso come ordinamento di default, dalla più alla meno recente.
+
+La pagina è composta da:
+
+- Una **Hero con il titolo di pagina** "Notizie";
+- Una barra dei filtri, come Tipologia (sulla base della Tassonomia Tipi di notizia), Luogo (se il museo ha più luoghi, è possibile mostrare, alla selezione del filtro, le notizie riguardanti un luogo specifico), Argomento (sulla base di una lista di tag argomenti stabiliti dall'ente), Ordina per (se si vogliono offrire più possibilità di ordinamento).
+- La **lista dei contenuti** sotto forma di card, che presentano un'immagine, il titolo della notizia, una breve descrizione e la data di pubblicazione;
+- Un **elemento di paginazione** per mostrare più contenuti;
+- Una sezione **Dai nostri social**, con il feed degli ultimi 3 post pubblicati sui social dei musei e i link ai profili;
+- Una sezione di **iscrizione alla newsletter**, se è un mezzo di comunicazione usato dal museo;
+- La **funzionalità di valutazione della chiarezza informativa** prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
+
+Al click su una card, l'utente atterrerà sulla pagina della notizia specifica. La pagina foglia “Notizia” si basa sulla tipologia di contenuto “Notizia” descritta nel Documento di architettura dell’informazione (XXX KB) in cui vengono indicati gli attributi informativi necessari e l’ordine di presentazione degli stessi.
+
+La pagina foglia “Notizia” si basa, a livello di layout, sul template pagina di testo generico. Come ogni pagina del sito, le pagine foglia Notizia presentano la funzionalità di valutazione della chiarezza informativa prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.   
+
 
 Luoghi
 --------
