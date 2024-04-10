@@ -81,8 +81,24 @@ Storia del museo
 
 La pagina foglia “Storia del museo” ha lo scopo di raccontare all’utente dettagli sul museo, dalla sua fondazione fino al giorno d’oggi. Può essere presente una galleria di immagini e video particolarmente significative. 
 
+La pagina presenta:
+
+- Una **Hero con il titolo di pagina** "La storia del museo";
+- Un primo elemento testuale dove fornire una **panoramica del contenuto** di pagina e le informazioni più importanti;
+- Il **corpo di pagina**, che può essere organizzato seguendo due layout: sotto forma di linea del tempo, con le date, il nome degli avvenimenti, una descrizione testuale ed eventuali immagini; oppure una serie di blocchi testuali più estesi, che possono essere corredati da immagini;
+- Una **galleria** di immagini o video.
+- La **funzionalità di valutazione della chiarezza informativa** prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
+
 Tour virtuali
 ----------------
+La pagina "Tour virtuali" è una pagina lista che presenta agli utenti tutti tour virtuali per esplorare il museo comodamente dai propri dispositivi.
+
+La pagina è composta da:
+
+- Una **Hero con il titolo di pagina** "Tour virtuali";
+- Il **filtro "Luogo"**, che permette di filtrare i tour in base al luogo desiderato (elemento opzionale, utile nel caso in cui il museo è composto da più luoghi);
+- La **lista dei contenuti**, sotto forma di card, con immagine, titolo e descrizione breve. Si consiglia di mostrare un massimo di 12 elementi su pagina e di fornire un componente di paginazione per esplorare ulteriori contenuti. La maggior parte dei tour virtuali sono ospitati su sistemi terzi, perciò si consiglia di reindirizzare gli utenti, al click sulla card, direttamente alla pagina dove è ospitato il tour virtuale, senza ulteriori passaggi intermedi. È possibile creare pagine foglia dei singoli tour virtuali qualora questi debbano essere presentati sul sito del museo tramite embed;
+- La **funzionalità di valutazione della chiarezza informativa** prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
 
 Notizie
 --------
