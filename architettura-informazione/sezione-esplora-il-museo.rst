@@ -7,24 +7,16 @@ Al primo livello, la sezione presenta una pagina di lista di primo livello Esplo
 
 Al secondo livello, la sezione si dirama in: 
 
-- Collezioni (pagina di lista)  
-- Oggetti* (pagina lista) 
-- Personaggi* (pagina lista) 
+- Collezioni (pagina di lista), al di sotto della quale saranno presenti le relative pagine delle singole collezioni;
+- Oggetti* (pagina lista), al di sotto della quale saranno presenti le relative pagine foglia degli oggetti che fanno parte del patrimonio del museo;
+- Personaggi* (pagina lista), al di sotto della quale saranno presenti le relative pagine foglia dei personaggi (come artisti, scienziati etc) a cui il museo vuole dare risalto; 
 - Storia del museo (pagina foglia) 
 - Tour virtuali (pagina lista) 
-- Notizie (pagina lista) 
-- Luogo (pagina foglia)
+- Notizie (pagina lista), al di sotto della quale saranno presenti le relative pagine foglia delle singole notizie; 
+- eventuali pagine Luogo (pagine foglia), nel caso in cui il museo è composto da più luoghi.
 
 .. attention::
    *La tassonomia di riferimento che regola le nomenclature per le pagine lista “Oggetti” e “Personaggi” è la Tassonomia Tipi di oggetto e personaggio. A seconda della tipologia di museo, queste pagine adotteranno le nomenclature più adatte al tipo di patrimonio in possesso. Ad esempio, per un museo di arte contemporanea sarà più opportuno chiamarle Opere e Artisti, mentre per un museo di fotografia sarà più opportuno chiamarle Fotografie e Fotografi. È comunque possibile aggiungere nuove nomenclature nel caso ci siano Oggetti e Personaggi che non rientrano in quelle individuate nella tassonomia.
-
-Direttamente sotto la pagina lista di secondo livello Collezioni, sono presenti le pagine foglia delle singole collezioni.  
-
-Sotto la pagina lista di secondo livello Oggetti, sono presenti le pagine foglia dei singoli oggetti, create seguendo le indicazioni della tipologia di contenuto “Oggetto”. 
-
-Al di sotto della pagina lista di secondo livello Personaggi, sono presenti le pagine foglia dei singoli personaggi, create seguendo le indicazioni della tipologia di contenuto “Personaggio”. 
-
-Direttamente sotto la pagina lista di secondo livello Notizie, sono presenti le pagine foglia delle singole notizie, create seguendo le indicazioni della tipologia di contenuto “Notizia”. 
 
 Per approfondire la struttura della sezione Esplora il museo, vai al `Grafico dell’alberatura (PDF 3.6MB) <https://designers.italia.it/files/resources/modelli/musei-civici/Alberatura-ModelloMusei-DesignersItalia.pdf>`_.
 
