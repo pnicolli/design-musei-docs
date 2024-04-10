@@ -15,9 +15,8 @@ Al secondo livello, la sezione si dirama in:
 - Notizie (pagina lista) 
 - Luogo (pagina foglia)
 
-..attention ::
-  
- *La tassonomia di riferimento che regola le nomenclature per le pagine lista “Oggetti” e “Personaggi” è la Tassonomia Tipi di oggetto e personaggio. A seconda della tipologia di museo, queste pagine adotteranno le nomenclature più adatte al tipo di patrimonio in possesso. Ad esempio, per un museo di arte contemporanea sarà più opportuno chiamarle Opere e Artisti, mentre per un museo di fotografia sarà più opportuno chiamarle Fotografie e Fotografi. È comunque possibile aggiungere nuove nomenclature nel caso ci siano Oggetti e Personaggi che non rientrano in quelle individuate nella tassonomia.
+.. attention::
+   *La tassonomia di riferimento che regola le nomenclature per le pagine lista “Oggetti” e “Personaggi” è la Tassonomia Tipi di oggetto e personaggio. A seconda della tipologia di museo, queste pagine adotteranno le nomenclature più adatte al tipo di patrimonio in possesso. Ad esempio, per un museo di arte contemporanea sarà più opportuno chiamarle Opere e Artisti, mentre per un museo di fotografia sarà più opportuno chiamarle Fotografie e Fotografi. È comunque possibile aggiungere nuove nomenclature nel caso ci siano Oggetti e Personaggi che non rientrano in quelle individuate nella tassonomia.
 
 Direttamente sotto la pagina lista di secondo livello Collezioni, sono presenti le pagine foglia delle singole collezioni.  
 
