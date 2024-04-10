@@ -1,6 +1,6 @@
 Sezione Educazione e ricerca
 ===============================
-La sezione risponde al bisogno degli utenti di ottenere informazioni su ciò che offre il museo in termini di Attività educative, di ricerca e le pubblicazioni ad esso correlate. 
+La sezione presenta agli utenti l'offerta del museo in termini di attività educative, attività di ricerca ed eventuali pubblicazioni. 
 
 Al primo livello, la sezione presenta una pagina di lista di primo livello Educazione e ricerca. 
  
