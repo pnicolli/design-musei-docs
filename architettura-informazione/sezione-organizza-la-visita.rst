@@ -77,6 +77,7 @@ La pagina è composta da:
 - L’**elenco di tutti i Percorsi di visita**, presentati tramite card che collegano alle relative pagine foglia. Possono comparire fino ad un massimo di 12 card e ognuna comprende un’immagine significativa, il nome del percorso, una breve descrizione e l’indicazione della durata. Nel caso in cui dovessero essere richiamati dalla ricerca più di 12 percorsi, comparirà al termine dell'elenco un elemento di paginazione; 
 - La **funzionalità di valutazione della chiarezza informativa della pagina**, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
 
+Al click su una card, l'utente atterrerà sulla pagina di un percorso di visita specifico.
 
 La pagina foglia “Percorso di visita” si basa sulla tipologia di contenuto “Percorso” descritta nel Documento di architettura dell’informazione (XXX KB), in cui vengono indicati gli attributi informativi necessari e l’ordine di presentazione degli stessi. La tipologia “Percorso” è stata progettata per mettere in risalto le informazioni più ricercate dagli utenti dei musei riguardo ad un percorso, come la durata complessiva, le tappe da cui è composto il percorso e una galleria di foto e video rappresentative. 
 
@@ -95,29 +96,32 @@ La pagina è composta da:
 - L’**elenco di tutti i Servizi**, sotto forma di card. Ogni card presenta il nome del servizio, una breve descrizione e, nel caso in cui il servizio ha una pagina foglia associata, il link con la call to action “Scopri il servizio”;
 - La **funzionalità di valutazione della chiarezza informativa della pagina**, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
 
-La pagina foglia “Servizio” si basa sulla tipologia di contenuto “Servizio” descritta nel Documento di architettura dell’informazione (XXX KB) in cui vengono indicati gli attributi informativi necessari e l’ordine di presentazione degli stessi per creare una pagina foglia di un servizio di un museo. La tipologia “Servizio” è stata progettata per mettere in risalto le informazioni più ricercate dagli utenti dei musei riguardo ad un servizio, come la descrizione, gli orari, i costi e una galleria di foto e video rappresentative. 
+Se è necessario fornire ulteriori dettagli e informazioni per un servizio, come ad esempio orari, costi e modalità di accesso, è possibile creare una relativa pagina foglia, raggiungibile al click sulla card.
 
-Come ogni pagina del sito, le pagine foglia servizio presentano la funzionalità di valutazione della chiarezza informativa prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
+Le pagine foglia “Servizio” si basano sulla tipologia di contenuto “Servizio” descritta nel Documento di architettura dell’informazione (XXX KB), in cui vengono indicati gli attributi informativi necessari e l’ordine di presentazione degli stessi. Come ogni pagina del sito, le pagine foglia servizio presentano la funzionalità di valutazione della chiarezza informativa prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
 
  
 
 Accessibilità
 --------------------------------------------------------
 
-Le pagine foglia “Accessibilità” e “Regole per i visitatori” si basano, a livello di layout, sul template "pagina di testo generico", disponibile su Figma.  
+La pagine foglia “Accessibilità” si basa, a livello di layout, sul template "pagina di testo generico", disponibile su Figma.  
 
-La pagina foglia **Accessibilità** ha lo scopo di raccogliere le informazioni utili ai visitatori con qualche forma di disabilità per rendere la loro esperienza di visita il più confortevole e ricca possibile, come ad esempio: 
+Questa pagina ha lo scopo di raccogliere le informazioni utili ai visitatori con qualche forma di disabilità per rendere la loro esperienza di visita il più confortevole e ricca possibile, come ad esempio: 
 
 - le indicazioni di rampe di accesso al museo ed eventuali appositi parcheggi;
 - la posizione, nel museo, di servizi igienici accessibili;
 - le modalità di richiesta di dispositivi utili a visitare il museo in maniera accessibile come, ad esempio, sedie a rotelle, audioguide accessibili o risorse online da scaricare nel proprio telefono o date in dotazione dallo stesso museo; 
 - orari di visita in cui il museo risulta essere meno affollato e sale in cui c’è minor afflusso di visitatori per poter effettuare un’eventuale sosta durante il percorso di visita.
 
+Come ogni pagina del sito, la pagina “Accessibilità” deve presentare la funzionalità di valutazione della chiarezza informativa prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
 
 Regole per i visitatori
 ---------------------------
 
-La pagina **Regole per i visitatori** ha lo scopo di raccogliere le indicazioni su come comportarsi negli spazi del museo e delle installazioni, come ad esempio:
+La pagine foglia “Regole per i visitatori” si basa, a livello di layout, sul template "pagina di testo generico", disponibile su Figma.  
+
+Questa pagina ha lo scopo di raccogliere le indicazioni su come comportarsi negli spazi del museo e delle installazioni, come ad esempio:
 
 - bere e mangiare negli spazi espositivi;
 - interagire con le opere d'arte o i reperti;
@@ -127,4 +131,4 @@ La pagina **Regole per i visitatori** ha lo scopo di raccogliere le indicazioni 
 - introdurre animali
 - divieti di fumo.
 
-Come ogni pagina del sito, le pagine “Accessibilità” e “Regole per i visitatori” presentano la funzionalità di valutazione della chiarezza informativa prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
+Come ogni pagina del sito, la pagina “Regole per i visitatori” deve presentare la funzionalità di valutazione della chiarezza informativa prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
