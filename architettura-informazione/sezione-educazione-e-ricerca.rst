@@ -1,6 +1,6 @@
 Sezione Educazione e ricerca
 ===============================
-La sezione presenta agli utenti l'offerta del museo in termini di attività educative, attività di ricerca ed eventuali pubblicazioni. 
+La sezione presenta agli utenti le attività educative che si possono svolgere al museo e quali sono le attività di ricerca in cui il museo è coinvolto, incluse eventuali pubblicazioni.
 
 Al primo livello, la sezione presenta una pagina di lista di primo livello Educazione e ricerca. 
  
@@ -18,7 +18,7 @@ Per tutte le pagine di questa sezione del sito, è disponibile il relativo layou
 Pagina lista di primo livello Educazione e ricerca 
 -----------------------------------------------------
 
-La pagina di lista di primo livello “Educazione e ricerca” permette agli utenti di scoprire quali attività educative si possono svolgere al museo e quali sono le attività di ricerca in cui il museo è coinvolto, incluse eventuali pubblicazioni. 
+La pagina di lista di primo livello “Educazione e ricerca” ha lo scopo di offrire agli utenti una panoramica di tutti i contenuti di questa sezione del sito e i collegamenti alle varie sottosezioni per consentirne la navigazione.
 
 La pagina è composta da: 
 
@@ -27,6 +27,23 @@ La pagina è composta da:
 - Una sezione **Le ultime notizie**, in cui presentare le ultime 3 notizie in ordine cronologico inverso (dalla più alla meno recente) riguardanti le attività educative o le attività di ricerca e pubblicazioni. È presente la call to action “Tutte le notizie su Educazione e ricerca” che permette all’utente di atterrare nella pagina lista “Notizie” prefiltrata per questa tematica.  
 - Una sezione **Vuoi supportare il museo**, che rimanda ad una pagina con la spiegazione dei modi con cui si può supportare il museo (ad esempio, tramite donazioni o membership); 
 - La **funzionalità di valutazione della chiarezza informativa delle pagine**, che permette agli utenti di lasciare feedback utili all’ente per migliorare i contenuti del sito.
+
+Attività educative
+---------------------
+
+La sottosezione Attività educative presenta una pagina lista di secondo livello che presenta l'elenco di tutte le attività offerte dal museo.
+
+La pagina è composta da:
+
+- Una **Hero** con il titolo "Attività educative"; 
+- La barra dei **filtri** che permettono all’utente di filtrare i contenuti per: Target (sulla base della Tassonomia Tipi di target), Tipologia (sulla base della Tassonomia Tipi di Attività educativa), Durata e Luogo (nel caso il museo abbia più luoghi che offrono attività educative);
+- L’**elenco dei contenuti**, sotto forma di card, che presentano: un'immagine di riferimento, il nome dell'attività, l’indicazione di dove si svolge, il target di riferimento (sulla base della Tassonomia Tipi di target), la durata e un badge con la tipologia di attività (sulla base della Tassonomia Tipi di Attività educativa). Sono esposte in pagina fino ad un massimo di 12 card ed è presente un elemento paginazione che permette di visualizzarne ulteriori;
+- La funzionalità di valutazione della chiarezza informativa della pagina, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
+
+Al click su una card della lista, l’utente atterra nella pagina foglia dedicata alla specifica attività educativa. Le pagine foglia si basano sulla tipologie di contenuto “Attività educativa” descritta nel Documento di architettura dell’informazione (XXX KB), in cui vengono indicati gli attributi informativi necessari e l’ordine di presentazione degli stessi. 
+
+Attività di ricerca e pubblicazioni
+---------------------------------------
 
 Pagine lista di secondo livello Attività educative e Attività di ricerca e pubblicazioni
 --------------------------------------------------------------------------------------------
