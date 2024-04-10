@@ -10,15 +10,10 @@ Al secondo livello, la sezione si dirama in:
 
 - Orari, biglietti e visite guidate (pagina foglia);
 - Dove siamo (pagina foglia);
-- Percorsi di visita (pagina lista di secondo livello);
-- Servizi (pagina lista di secondo livello);
+- Percorsi di visita (pagina lista di secondo livello), al di sotto della quale saranno presenti le relative pagine delle singoli percorsi di visita (pagine foglia);
+- Servizi (pagina lista di secondo livello), al di sotto della quale saranno presenti le relative pagine dei singoli servizi (pagine foglia);
 - Accessibilità (pagina foglia);
 - Regole per i visitatori (pagina foglia).
-
-
-Direttamente sotto la pagina lista di secondo livello Percorsi, sono presenti le pagine foglia dei singoli percorsi, create seguendo le indicazioni della tipologia di contenuto “Percorso”. 
-
-Direttamente sotto la pagina lista di secondo livello Servizi, sono presenti le pagine foglia dei singoli servizi, create seguendo le indicazioni della tipologia di contenuto “Servizio”. 
 
 Per approfondire la struttura della sezione Organizza la visita, vai al `Grafico dell’alberatura (PDF 3.6MB) <https://designers.italia.it/files/resources/modelli/musei-civici/Alberatura-ModelloMusei-DesignersItalia.pdf>`_. 
 
@@ -106,7 +101,7 @@ Come ogni pagina del sito, le pagine foglia servizio presentano la funzionalità
 
  
 
-Pagine foglia Accessibilità e Regole per i visitatori
+Accessibilità
 --------------------------------------------------------
 
 Le pagine foglia “Accessibilità” e “Regole per i visitatori” si basano, a livello di layout, sul template "pagina di testo generico", disponibile su Figma.  
@@ -117,6 +112,10 @@ La pagina foglia **Accessibilità** ha lo scopo di raccogliere le informazioni u
 - la posizione, nel museo, di servizi igienici accessibili;
 - le modalità di richiesta di dispositivi utili a visitare il museo in maniera accessibile come, ad esempio, sedie a rotelle, audioguide accessibili o risorse online da scaricare nel proprio telefono o date in dotazione dallo stesso museo; 
 - orari di visita in cui il museo risulta essere meno affollato e sale in cui c’è minor afflusso di visitatori per poter effettuare un’eventuale sosta durante il percorso di visita.
+
+
+Regole per i visitatori
+---------------------------
 
 La pagina **Regole per i visitatori** ha lo scopo di raccogliere le indicazioni su come comportarsi negli spazi del museo e delle installazioni, come ad esempio:
 
