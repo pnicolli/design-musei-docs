@@ -40,31 +40,18 @@ La pagina è composta da:
 - L’**elenco dei contenuti**, sotto forma di card, che presentano: un'immagine di riferimento, il nome dell'attività, l’indicazione di dove si svolge, il target di riferimento (sulla base della Tassonomia Tipi di target), la durata e un badge con la tipologia di attività (sulla base della Tassonomia Tipi di Attività educativa). Sono esposte in pagina fino ad un massimo di 12 card ed è presente un elemento paginazione che permette di visualizzarne ulteriori;
 - La funzionalità di valutazione della chiarezza informativa della pagina, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
 
-Al click su una card della lista, l’utente atterra nella pagina foglia dedicata alla specifica attività educativa. Le pagine foglia si basano sulla tipologie di contenuto “Attività educativa” descritta nel Documento di architettura dell’informazione (XXX KB), in cui vengono indicati gli attributi informativi necessari e l’ordine di presentazione degli stessi. 
+Al click su una card della lista, l’utente atterra nella pagina foglia dedicata alla specifica attività educativa. Le pagine foglia si basano sulla tipologie di contenuto “Attività educativa” descritta nel Documento di architettura dell’informazione (XXX KB), in cui vengono indicati gli attributi informativi necessari e l’ordine di presentazione degli stessi. La tipologia “Attività educativa” è stata progettata per mettere in risalto le informazioni più ricercate dagli utenti dei musei riguardo a queste attività, come il nome, informazioni logistiche come, ad esempio, gli orari, il costo e la modalità di prenotazione, una galleria di foto o video rappresentativi ed eventuali materiali scaricabili in preparazione all’attività. 
 
 Attività di ricerca e pubblicazioni
 ---------------------------------------
 
-Pagine lista di secondo livello Attività educative e Attività di ricerca e pubblicazioni
---------------------------------------------------------------------------------------------
-Queste pagina lista raccolgono i collegamenti a tutte le pagine foglia afferenti a quella specifica categoria di contenuto. 
+La sottosezione Attività educative presenta una pagina lista di secondo livello che presenta l'elenco di tutte le attività di ricerca in cui il museo è coinvolto, incluse eventuali pubblicazioni disponibili alla consultazione.
 
-Le pagine sono composte da:
+La pagina è composta da:
 
-- Una **Hero** con titolo della pagina; 
-- La barra dei **filtri** che permettono all’utente di filtrare i contenuti per: Target, Tipologia, Durata e Luogo per le attività educative; Tipologia (Attività di ricerca o Pubblicazione) per le Attività di ricerca e pubblicazioni; 
-- L’**elenco dei contenuti**, sotto forma di card, che presentano: per le **attività educative**, un'immagine di riferimento, il nome dell'attività, l’indicazione di dove si svolge, il target di riferimento, la durata e un badge con la tipologia di attività (sulla base della Tassonomia Tipi di Attività educativa); per le **Attività di ricerca e pubblicazioni**, il titolo dell’attività di ricerca o pubblicazione, nome degli autori e badge con il riferimento alla tipologia (Attività di ricerca oppure Pubblicazione). Sono esposte in pagina fino ad un massimo di 12 card ed è presente un elemento paginazione che permette di visualizzarne ulteriori. 
-- La funzionalità di valutazione della chiarezza informativa della pagina, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
+- Una **Hero** con il titolo di pagina "Attività di ricerca e pubblicazioni"; 
+- Una select de **filtro Tipologia** che permette all’utente di filtrare i contenuti Attività di ricerca o Pubblicazione; 
+- L’**elenco dei contenuti**, sotto forma di card, che presentano: il titolo dell’attività di ricerca o della pubblicazione, nome degli autori e badge con il riferimento alla tipologia (Attività di ricerca oppure Pubblicazione). Sono esposte in pagina fino ad un massimo di 12 card ed è presente un elemento paginazione che permette di visualizzarne ulteriori;
+- La **funzionalità di valutazione della chiarezza informativa della pagina**, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
 
-Al click su una card della lista, l’utente atterra nella pagina foglia dedicata alla singola attività educativa, alla singola attività di ricerca o alla singola pubblicazione.
-
-Pagine foglia Attività educativa e Attività di ricerca o pubblicazione
---------------------------------------------------------------------------
-
-Le pagine foglia “Attività educativa” e le pagine foglia “Attività di ricerca o pubblicazione” si basano sulle tipologie di contenuto “Attività educativa” e “Attività di ricerca o pubblicazione” descritte nel Documento di architettura dell’informazione (XXX KB) in cui vengono indicati gli attributi informativi necessari e l’ordine di presentazione degli stessi. 
-
-La tipologia “Attività educativa” è stata progettata per mettere in risalto le informazioni più ricercate dagli utenti dei musei riguardo a queste attività, come il nome, informazioni logistiche come, ad esempio, gli orari, il costo e la modalità di prenotazione, una galleria di foto o video rappresentativi ed eventuali materiali scaricabili in preparazione all’attività. 
-
-La tipologia “Attività di ricerca o pubblicazione” è stata progettata per mettere in risalto le informazioni più ricercate dagli utenti dei musei riguardo a queste attività, come il titolo, gli autori ed eventuali link per approfondimenti. 
-
-Come ogni pagina del sito, le pagine foglia “Attività educativa” e la pagina foglia “Attività di ricerca o pubblicazione” presentano la funzionalità di valutazione della chiarezza informativa prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
+Al click su una card della lista, l’utente atterra nella pagina foglia dedicata alla singola specifica attività di ricerca o alla specifica pubblicazione. Le pagine foglia per le attività di ricerca e per le pubblicazioni si basano sulla tipologia di contenuto “Attività di ricerca o pubblicazione” descritta nel Documento di architettura dell’informazione (XXX KB), in cui vengono indicati gli attributi informativi necessari e l’ordine di presentazione degli stessi. La tipologia di contenuto è stata progettata per mettere in risalto informazioni come la descrizione della ricerca, gli autori, i link a eventuali approfondimenti, eventuali materiali scaricabili e una galleria multimediale.
