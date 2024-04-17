@@ -10,7 +10,7 @@ L’architettura di un sito è composta da:
 -	le **tipologie di contenuto** (in inglese, content types), ovvero la struttura e l’ordine delle informazioni per creare pagine foglia (ad esempio, le pagine di dettaglio per i percorsi di visita o le attività educative proposte dal museo ai suoi visitatori);
 -	le **tassonomie** e i vocabolari controllati, ovvero le liste di vocaboli da usare per nominare i contenuti del sito e per taggarli in modo da renderli fruibili tramite motore di ricerca o navigazione alternativa.
 
-Tutti i dettagli sull’architettura del sito di un museo sono contenuti nel `Documento di architettura dell’informazione (ODS XXKB) <https://designers.italia.it/files/resources/modelli/musei-civici/Architettura-ModelloMusei-DesignersItalia.ods>`_.
+Tutti i dettagli sull’architettura del sito di un museo sono contenuti nel Documento di architettura dell’informazione (`Versione ODS 82KB <https://designers.italia.it/files/resources/modelli/musei-civici/Architettura-ModelloMusei-DesignersItalia.ods>`_, `Versione XLSX 216KB <https://designers.italia.it/files/resources/modelli/musei-civici/Architettura-ModelloMusei-DesignersItalia.xlsx>`_).
 
 .. important::
    Tutte le risorse presentano le indicazioni di voci di navigazione, etichette, titoli di pagina e di sezione anche in lingua inglese, per facilitare la realizzazione, qualora necessario, di un sito multilingua.
