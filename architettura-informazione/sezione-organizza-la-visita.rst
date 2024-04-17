@@ -79,7 +79,7 @@ La pagina è composta da:
 
 Al click su una card, l'utente atterrerà sulla pagina di un percorso di visita specifico.
 
-La pagina foglia “Percorso di visita” si basa sulla tipologia di contenuto “Percorso” descritta nel Documento di architettura dell’informazione (XXX KB), in cui vengono indicati gli attributi informativi necessari e l’ordine di presentazione degli stessi. La tipologia “Percorso” è stata progettata per mettere in risalto le informazioni più ricercate dagli utenti dei musei riguardo ad un percorso, come la durata complessiva, le tappe da cui è composto il percorso e una galleria di foto e video rappresentative. 
+La pagina foglia “Percorso di visita” si basa sulla tipologia di contenuto “Percorso” descritta nel Documento di architettura dell’informazione (`Versione ODS 82KB <https://designers.italia.it/files/resources/modelli/musei-civici/Architettura-ModelloMusei-DesignersItalia.ods>`_, `Versione XLSX 216KB <https://designers.italia.it/files/resources/modelli/musei-civici/Architettura-ModelloMusei-DesignersItalia.xlsx>`_), in cui vengono indicati gli attributi informativi necessari e l’ordine di presentazione degli stessi. La tipologia “Percorso” è stata progettata per mettere in risalto le informazioni più ricercate dagli utenti dei musei riguardo ad un percorso, come la durata complessiva, le tappe da cui è composto il percorso e una galleria di foto e video rappresentative. 
 
 Come ogni pagina del sito, le pagine foglia Percorso di visita presentano la funzionalità di valutazione della chiarezza informativa prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
 
@@ -98,7 +98,7 @@ La pagina è composta da:
 
 Se è necessario fornire ulteriori dettagli e informazioni per un servizio, come ad esempio orari, costi e modalità di accesso, è possibile creare una relativa pagina foglia, raggiungibile al click sulla card.
 
-Le pagine foglia “Servizio” si basano sulla tipologia di contenuto “Servizio” descritta nel Documento di architettura dell’informazione (XXX KB), in cui vengono indicati gli attributi informativi necessari e l’ordine di presentazione degli stessi. Come ogni pagina del sito, le pagine foglia servizio presentano la funzionalità di valutazione della chiarezza informativa prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
+Le pagine foglia “Servizio” si basano sulla tipologia di contenuto “Servizio” descritta nel Documento di architettura dell’informazione (`Versione ODS 82KB <https://designers.italia.it/files/resources/modelli/musei-civici/Architettura-ModelloMusei-DesignersItalia.ods>`_, `Versione XLSX 216KB <https://designers.italia.it/files/resources/modelli/musei-civici/Architettura-ModelloMusei-DesignersItalia.xlsx>`_), in cui vengono indicati gli attributi informativi necessari e l’ordine di presentazione degli stessi. Come ogni pagina del sito, le pagine foglia servizio presentano la funzionalità di valutazione della chiarezza informativa prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
 
  
 
