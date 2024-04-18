@@ -7,13 +7,12 @@ Per il modello è stata creata una libreria di componenti standardizzati che def
 
 I vantaggi di utilizzare una libreria di componenti sono: 
 
-una maggiore applicabilità a livello di implementazione, riducendo tempi di sviluppo e frequenza di modifica degli stili e al contempo garantendo una maggiore consistenza in termini sia visivi che di esperienza tra i siti; 
-
-un’esperienza d’uso più coerente per i cittadini, garantendo maggiore orientamento e trovabilità dei contenuti anche nel passaggio tra diversi siti dei musei. 
+- una maggiore applicabilità a livello di implementazione, riducendo tempi di sviluppo e frequenza di modifica degli stili e al contempo garantendo una maggiore consistenza in termini sia visivi che di esperienza tra i siti; 
+- un’esperienza d’uso più coerente per i cittadini, garantendo maggiore orientamento e trovabilità dei contenuti anche nel passaggio tra diversi siti dei musei. 
 
 All’interno del file Figma è possibile trovare tutte le informazioni di implementazione, di utilizzo e di comportamento a livello di interazione. 
 
-Vai alla libreria dei componenti UI 
+`Vai alla libreria dei componenti UI <https://www.figma.com/community/file/1362341553612665419/musei-civici-modello-sito>`_
 
 Fondamenti (Foundations) 
 ---------------------------
@@ -56,4 +55,4 @@ Personalizzazione dell’interfaccia
 
 Aggiungi il logo del museo, scegli la giusta tipologia di header e imposta i colori primari e secondari. 
 
-La guida alla personalizzazione del modello ti aiuta a creare un sito con una resa grafica fluida, accessibile e che rispecchia al meglio l’identità visiva dell’ente di riferimento. 
+La guida alla personalizzazione del modello ti aiuta a creare un sito con una resa grafica fluida, accessibile e che rispecchia al meglio l’identità visiva dell’ente di riferimento. È disponibile nel foglio "How to" della `Libreria UI del modello <https://www.figma.com/community/file/1362341553612665419/musei-civici-modello-sito>`_.
