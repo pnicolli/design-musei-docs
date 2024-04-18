@@ -113,5 +113,10 @@ La pagina foglia “Notizia” si basa, a livello di layout, sul template pagina
 Luoghi
 --------
 
+La pagina Luogo, basata sulla tipologia di contenuto “Luogo” descritta nel Documento di architettura dell’informazione (`Versione ODS 82KB <https://designers.italia.it/files/resources/modelli/musei-civici/Architettura-ModelloMusei-DesignersItalia.ods>`_, `Versione XLSX 216KB <https://designers.italia.it/files/resources/modelli/musei-civici/Architettura-ModelloMusei-DesignersItalia.xlsx>`_), permette di creare delle pagine di dettaglio per i musei che hanno più sedi o punti di interesse, come ad esempio giardini e biblioteche.
 
+A livello di resa grafica, abbiamo creato due tipologie di template, entrambi disponibili nello UI kit del modello:
+
+- un template base, che ha la funzione di descrivere il luogo e di mettere in risalto le informazioni più pratiche, come indirizzi e orari di apertura (l'ordine dei contenuti segue lo stesso ordine della tipologia di contenuto "Luogo" sul documento di architettura). Questa versione è utile per descrivere i luoghi che presentano un interesse storico artistico, ma non necessariamente presentano opere e collezioni di oggetti;
+- un template in stile "landing", che ha una funzione più promozionale e di mettere in risalto l'offerta culturale del luogo. Questa seconda versione è utile per quei musei che hanno bisogno di trattare i luoghi come entità a sé che presentano le proprie collezioni e il proprio patrimonio.
 
