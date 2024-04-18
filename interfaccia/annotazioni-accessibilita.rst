@@ -19,4 +19,4 @@ Tra queste ultime sono segnalate anche le reference in live code su Bootstrap It
 - risultino chiari i comportamenti a livello di interazione; 
 - risulti facilitato il riferimento di sviluppo per chi si occuperà di implementare il modello. 
 
-Le annotazioni di accessibilità sono disponibili nel foglio "Accessibilità" dello ` UI kit del modello <https://www.figma.com/community/file/1362341553612665419/musei-civici-modello-sito>`_. 
+Le annotazioni di accessibilità sono disponibili nel foglio "Accessibilità" dello `UI kit del modello <https://www.figma.com/community/file/1362341553612665419/musei-civici-modello-sito>`_. 
