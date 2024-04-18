@@ -28,6 +28,6 @@ Mappa del sito
 
 La mappa del sito è uno strumento fondamentale per garantire l’accessibilità di un sito e di fornire una navigazione alternativa all’uso dei menu di navigazione. La pagina si presenta come una lista di titoli di pagina con i link alle pagine stesso e l’indicazione della gerarchia nella struttura del sito, facilmente leggibile dai software di accessibilità. 
 
-Il foglio «Sistema di navigazione» del Documento di architettura (ODS 165MB) offre un esempio di come strutturare la mappa di un sito. 
+Il foglio «Sistema di navigazione» del Documento di architettura (`Versione ODS 82KB <https://designers.italia.it/files/resources/modelli/musei-civici/Architettura-ModelloMusei-DesignersItalia.ods>`_, `Versione XLSX 216KB <https://designers.italia.it/files/resources/modelli/musei-civici/Architettura-ModelloMusei-DesignersItalia.xlsx>`_) offre un esempio di come strutturare la mappa di un sito. 
 
 Si sconsiglia di includere nella mappa del sito i collegamenti alle pagine di contenuti editoriali come notizie ed eventi, in quanto contenuti che diventano velocemente obsoleti e che potrebbero poi creare una lista di pagine molto lunga e difficile da navigare. Per queste sezioni, si consiglia di fornire i link solo alle pagine lista di categoria (ad esempio, la pagina Notizie). 
