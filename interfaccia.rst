@@ -11,7 +11,7 @@ La costruzione dell’interfaccia è una delle fasi finali della realizzazione o
    :maxdepth: 3
    :caption: Indice dei contenuti
 
-   interfaccia/libreria-componenti-ui.rst
+   interfaccia/ui-kit-modello-musei-civici.rst
    interfaccia/valutazione-chiarezza-informativa.rst
    interfaccia/flusso-acquisto-prenotazione.rst
    interfaccia/interfaccia-aggregatore.rst
