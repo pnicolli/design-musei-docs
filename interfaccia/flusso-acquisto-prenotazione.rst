@@ -1,8 +1,7 @@
 Flusso di acquisto biglietti o prenotazione visite
 ======================================================
   
-Nella Libreria UI del modello Musei puoi trovare le interfacce di un flusso di interazione che può essere impostato, a seconda delle esigenze, per creare una funzionalità di acquisto biglietti o prenotazione delle visite. 
-
+Nella `Libreria UI del modello <https://www.figma.com/community/file/1362341553612665419/musei-civici-modello-sito>`_, nel foglio "Acquisto", puoi trovare le interfacce di un flusso di interazione che può essere impostato, a seconda delle esigenze, per creare una funzionalità di acquisto biglietti o prenotazione delle visite. 
 
 Il flusso è composto da 8 passi: 
 
@@ -15,3 +14,4 @@ Il flusso è composto da 8 passi:
 - **Passo 7: selezione del metodo di pagamento (solo per acquisto)** - l'utente sceglie se pagare tramite PagoPA o altre opzioni, come carta di credito;
 - **Passo 8: pagamento (solo per acquisto e su sistema esterno)** - l'utente, su sistema esterno, inserisce eventuali altre informazioni e conclude l'operazione di pagamento;
 - **Passo 9: conferma** - vengono riepilogati all’utente i dati del suo acquisto o della prenotazione ed esposti in pagina alcuni consigli per prepararsi al meglio alla visita. 
+
