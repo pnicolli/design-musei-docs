@@ -3,7 +3,7 @@ Funzionalità di valutazione della chiarezza informativa
 
 Il sito di un museo deve permettere agli utenti di valutare la chiarezza informative delle pagine, come da indicazione dell'**eGovernment Benchmark**. Questa funzionalità deve essere presente su ogni pagina del sito, prima del footer.
 
-Il componente è stato progettato usando una scala che vuole misurare la chiarezza dei contenuti e, in base alla valutazione ricevuta dall'utente, offre domande chiuse e aperte in maniera standardizzata, in modo tale da poter raccogliere feedback utile all'ente per migliorare le pagine del sito. Il componente è disponibile nella Libreria UI del modello Musei su Figma.
+Il componente è stato progettato usando una scala che vuole misurare la chiarezza dei contenuti e, in base alla valutazione ricevuta dall'utente, offre domande chiuse e aperte in maniera standardizzata, in modo tale da poter raccogliere feedback utile all'ente per migliorare le pagine del sito. Il componente è disponibile nella `Libreria UI del modello su Figma <https://www.figma.com/community/file/1362341553612665419/musei-civici-modello-sito>`_, nel foglio "Components".
 
   
 La funzionalità si articola nei seguenti passaggi:
