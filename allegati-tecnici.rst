@@ -10,7 +10,8 @@ Allegati tecnici
 
 **Interfaccia**
 
-- `Libreria dei componenti UI <https://www.figma.com/community/file/1344590104797564988>`_ - comprende i componenti, i layout hi-fi delle principali pagine del modello, la guida alla personalizzazione delle interfacce del modello e le annotazioni di accessibilità
-- `Sito demo desktop <https://www.figma.com/proto/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?node-id=2963-29111&starting-point-node-id=2963%3A29111&scaling=scale-down&mode=design&t=WQqEtf6esyW6n73Q-1>`_
-- `Sito demo mobile <https://www.figma.com/proto/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?page-id=856%3A106452&type=design&node-id=1058-24948&viewport=-22%2C847%2C0.09&t=IaHrkJ8muOky4xsW-1&scaling=scale-down&starting-point-node-id=1058%3A24948&show-proto-sidebar=1&mode=design>`_
-- `Prototipi desktop dei principali scenari d'uso <https://www.figma.com/proto/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=3208-47773&t=eKr9BEN2co0uYTG9-1&scaling=contain&page-id=3208%3A47772&starting-point-node-id=3208%3A47773&mode=design>`_
+- `Libreria dei componenti UI - Figma <https://www.figma.com/community/file/1362341553612665419/musei-civici-modello-sito>`_ - comprende i componenti, i layout hi-fi delle principali pagine del modello, la guida alla personalizzazione delle interfacce del modello e le annotazioni di accessibilità
+- `Libreria dei componenti UI - Github <https://github.com/italia/design-musei-ui-kit>`_ - comprende il file Figma e la versione Sketch della libreria dei componenti.
+- `Sito demo desktop <https://www.figma.com/proto/1hQobutdZFwlo2Y4mVt9Rl/Musei-civici---Modello-sito?type=design&node-id=1595-132414&t=SLmYVCR1RCkrVu8r-0&scaling=scale-down-width&page-id=54%3A17335&starting-point-node-id=1595%3A132414>`_
+- `Sito demo mobile <https://www.figma.com/proto/1hQobutdZFwlo2Y4mVt9Rl/Musei-civici---Modello-sito?type=design&node-id=1665-151326&t=SLmYVCR1RCkrVu8r-0&scaling=scale-down&page-id=1665%3A126017&starting-point-node-id=1665%3A151326>`_
+- `Prototipi desktop dei principali scenari d'uso <https://www.figma.com/proto/1hQobutdZFwlo2Y4mVt9Rl/Musei-civici---Modello-sito?type=design&node-id=2360-836197&t=SLmYVCR1RCkrVu8r-0&scaling=scale-down-width&page-id=2360%3A820332&starting-point-node-id=2360%3A820333>`_
