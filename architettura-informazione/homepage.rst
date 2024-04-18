@@ -17,4 +17,4 @@ L’homepage del modello è composta da:
 - una sezione per **pubblicizzare come supportare il museo**, che rimanda alla pagina "Supporta il museo"; 
 - La **funzionalità di valutazione della chiarezza informativa delle pagine**, che permette agli utenti di lasciare feedback utili all’ente per migliorare i contenuti del sito. 
 
-E! disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al file del modello Musei sulla Community Figma, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Homepage».
+E! disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al `file del modello sulla Community Figma <https://www.figma.com/community/file/1362341553612665419/musei-civici-modello-sito>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Homepage».
