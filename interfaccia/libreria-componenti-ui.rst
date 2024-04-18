@@ -1,7 +1,7 @@
-Libreria dei componenti UI 
+UI kit del modello Musei civici
 ===========================================
 
-Per la progettazione della libreria di componenti UI del modello si è partiti basandoci sullo UI Kit Italia e sugli altri componenti creati per i modelli precedenti, così da assicurare una coerenza visiva tra le varie interfacce. In base poi ai risultati della ricerca e quindi alle necessità a livello informativo e di contenuto, sono state creati alcuni specifici componenti (ad esempio, la Card Relaunch o la Hero della Homepage) 
+Per la progettazione dello UI kit del modello si è partiti basandoci sullo UI Kit Italia e sugli altri componenti creati per i modelli precedenti, così da assicurare una coerenza visiva tra le varie interfacce. In base poi ai risultati della ricerca e quindi alle necessità a livello informativo e di contenuto, sono state creati alcuni specifici componenti (ad esempio, la Card Relaunch o la Hero della Homepage) 
 
 Per il modello è stata creata una libreria di componenti standardizzati che definisce il punto centralizzato dal quale recuperare gli elementi che andranno a comporre l’interfaccia del sito. 
 
@@ -12,7 +12,7 @@ I vantaggi di utilizzare una libreria di componenti sono:
 
 All’interno del file Figma è possibile trovare tutte le informazioni di implementazione, di utilizzo e di comportamento a livello di interazione. 
 
-`Vai alla libreria dei componenti UI <https://www.figma.com/community/file/1362341553612665419/musei-civici-modello-sito>`_
+`Vai allo UI kit del modello <https://www.figma.com/community/file/1362341553612665419/musei-civici-modello-sito>`_
 
 Fondamenti (Foundations) 
 ---------------------------
@@ -55,4 +55,4 @@ Personalizzazione dell’interfaccia
 
 Aggiungi il logo del museo, scegli la giusta tipologia di header e imposta i colori primari e secondari. 
 
-La guida alla personalizzazione del modello ti aiuta a creare un sito con una resa grafica fluida, accessibile e che rispecchia al meglio l’identità visiva dell’ente di riferimento. È disponibile nel foglio "How to" della `Libreria UI del modello <https://www.figma.com/community/file/1362341553612665419/musei-civici-modello-sito>`_.
+La guida alla personalizzazione del modello ti aiuta a creare un sito con una resa grafica fluida, accessibile e che rispecchia al meglio l’identità visiva dell’ente di riferimento. È disponibile nel foglio "How to" dell `UI kit del modello <https://www.figma.com/community/file/1362341553612665419/musei-civici-modello-sito>`_.
