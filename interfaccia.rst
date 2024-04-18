@@ -17,4 +17,4 @@ La costruzione dell’interfaccia è una delle fasi finali della realizzazione o
    interfaccia/interfaccia-aggregatore.rst
    interfaccia/annotazioni-accessibilita.rst
    interfaccia/font.rst
-   interfaccia/prototipi-alta-fedelta.rst
+
