@@ -7,7 +7,7 @@ Per visualizzare la struttura del modello di sito di un museo, vai al `Grafico d
 A partire dall’homepage (livello 0), il modello si dirama in 4 sezioni principali:  
 
 - **Organizza la visita**, con tutte le informazioni logistiche utili agli utenti per pianificare la visita al museo; 
-- **Esplora il museo**, al cui interno è contenuto tutto ciò che l’utente può visitare e approfondire (collezioni, oggetti e artisti), le notizie e gli eventuali luoghi di cui è composto un museo; 
+- **Esplora il museo** (o "Esplora i musei" per gli enti costituiti da più musei), al cui interno è contenuto tutto ciò che l’utente può visitare e approfondire (collezioni, oggetti e artisti), le notizie e gli eventuali luoghi di cui è composto un museo; 
 - **Mostre ed eventi**, che riporta tutta l’offerta museale di mostre ed eventi; 
 - **Educazione e ricerca**, con l’offerta di attività educative e la possibilità di approfondire le attività di ricerca e pubblicazioni correlate al museo.
 
