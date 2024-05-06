@@ -3,7 +3,7 @@ Sezione Esplora il museo
 
 La sezione risponde al bisogno degli utenti di scoprire tutto ciò che offre il museo in termini di collezioni, opere e artisti ma anche di tour virtuali ed eventuali luoghi di cui è composto. 
 
-Al primo livello, la sezione presenta una pagina di lista di primo livello Esplora il museo. 
+Al primo livello, la sezione presenta una pagina di lista di primo livello Esplora il museo (o "Esplora i musei" per gli enti costituiti da più musei). 
 
 Al secondo livello, la sezione si dirama in: 
 
@@ -25,7 +25,7 @@ Per tutte le pagine di questa sezione del sito, a meno che non specificato diver
 Pagina lista di primo livello Esplora il museo 
 ---------------------------------------------------
 
-La pagina di lista di primo livello “Esplora il museo” ha lo scopo di offrire agli utenti una panoramica di tutti i contenuti di questa sezione del sito e i collegamenti alle varie sottosezioni per consentirne la navigazione.   
+La pagina di lista di primo livello “Esplora il museo” (o "Esplora i musei" per gli enti costituiti da più musei) ha lo scopo di offrire agli utenti una panoramica di tutti i contenuti di questa sezione del sito e i collegamenti alle varie sottosezioni per consentirne la navigazione.   
 
 
 La pagina è composta da: 
