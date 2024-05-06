@@ -1,6 +1,21 @@
 Altri contenuti
 ================
 
+Organizzazione
+-----------------
+
+Questa sezione presenta com’è strutturato il museo da un punto di vista amministrativo, in base all’organizzazione interna. Al primo livello, la sezione presenta una pagina “Organizzazione”. Al secondo livello, la sezione può, a seconda delle esigenze, diramarsi in una serie di sottopagine come:
+
+- Statuto
+- Dirigenti e personale
+- Uffici
+- Supporta il museo
+- Lavora con noi
+
+Per creare pagine foglia del personale e degli uffici si può prendere come spunto le Tipologie di contenuto "Unità organizzativa" e "Persona" del `modello Comuni di Designers Italia <https://designers.italia.it/modelli/comuni/>`_.
+
+
+
 Amministrazione trasparente 
 -----------------------------
 
